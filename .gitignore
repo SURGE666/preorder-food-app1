@@ -1,0 +1,17 @@
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Python virtual environment folders (Good practice to ignore these too)
+**/venv/
+venv/
+
+# PyCharm specific files (Optional but recommended)
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
